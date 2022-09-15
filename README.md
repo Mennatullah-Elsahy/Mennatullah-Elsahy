@@ -35,12 +35,23 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mennatullah-elsahy" alt="mennatullah-elsahy" /></a> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mennatullah-elsahy&show_icons=true&locale=en&layout=compact" alt="mennatullah-elsahy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mennatullah-elsahy&show_icons=true&locale=en" alt="mennatullah-elsahy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mennatullah-elsahy&" alt="mennatullah-elsahy" /></p>
-
-
-
+### 📊 Overall Stats 
+  
+ <table> 
+   <tr> 
+     <td> 
+       <a href="https://github.com/Mennatullah-Elsahy/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Mennatullah-Elsahy&hide_border=true&show_icons=true" alt="Mennatullah's GitHub Stats" /> </a> 
+     </td> 
+     <td> 
+       <a href="https://github.com/Mennatullah-Elsahy/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mennatullah-Elsahy&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a> 
+     </td> 
+   </tr> 
+   <tr> 
+     <td colspan=2 align="center"> 
+       <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=Mennatullah-Elsahy&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Mennatullah's GitHub Readme Streak Stats" /> </a> 
+     </td> 
+   </tr> 
+ </table> 
+ 
+ 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mennatullah-Elsahy&theme=react-dark)](https://github.com/Mennatullah-Elsahy/github-readme-activity-graph) 
