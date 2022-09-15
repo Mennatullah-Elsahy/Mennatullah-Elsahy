@@ -4,10 +4,6 @@
 
 <p align="left"> <a href="https://twitter.com/mennasahy" target="blank"><img src="https://img.shields.io/twitter/follow/mennasahy?logo=twitter&style=for-the-badge" alt="mennasahy" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mennatullah-elsahy&label=Profile%20views&color=0e75b6&style=flat" alt="mennatullah-elsahy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mennatullah-elsahy" alt="mennatullah-elsahy" /></a> </p>
-
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
