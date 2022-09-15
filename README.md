@@ -49,7 +49,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mennatullah-Elsahy&theme=react-dark)](https://github.com/Mennatullah-Elsahy/github-readme-activity-graph) 
 
 
-<h3 align="left">📫 How to reach me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3> 
+<h2 align="left">📫 How To Reach Me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2> 
   
 <p align="left">
 <a href="https://linkedin.com/in/mennatullah-elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
@@ -59,3 +59,4 @@
 <a href="https://www.hackerrank.com/mennatullah muhammad elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mennatullah muhammad elsahy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mennaelsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mennaelsahy" height="30" width="40" /></a>
 </p>
+ <a href="mailto:mennamuhammad@std.mans.edu.eg"><img alt="Email" src="https://img.shields.io/badge/Email-mennamuhammad@std.mans.edu.eg-blue?style=flat-square&logo=gmail"></a><br> 
