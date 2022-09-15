@@ -49,7 +49,8 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mennatullah-Elsahy&theme=react-dark)](https://github.com/Mennatullah-Elsahy/github-readme-activity-graph) 
 
 
-<h3 align="left">📫 How to reach me:</h3>
+<h3 align="left">📫 How to reach me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3> 
+  
 <p align="left">
 <a href="https://linkedin.com/in/mennatullah-elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
 <a href="https://kaggle.com/mennatullah elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mennatullah elsahy" height="30" width="40" /></a>
