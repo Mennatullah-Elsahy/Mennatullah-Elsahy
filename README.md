@@ -51,7 +51,7 @@
 <h2 align="left">📫 How To Reach Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2> 
   
 <p align="left">
-<a href="https://linkedin.com/in/mennatullah-elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mennatullah-elsahy-a78313220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/mennatullahelsahy/Home?isEditing=False&verifyPhone=False" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mennatullah elsahy" height="30" width="40" /></a>
 <a href="https://fb.com/menna elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="menna elsahy" height="30" width="40" /></a>
 <a href="https://instagram.com/menna_el_sahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="menna_el_sahy" height="30" width="40" /></a>
