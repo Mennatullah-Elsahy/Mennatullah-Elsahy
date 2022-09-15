@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A01ahxL35cUIGRcGpBJqSg1JxkA9W8F5/view?usp=sharing)
 
-<h3 align="left">Connect with me 📫:</h3>
+<h3 align="left">📫 How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mennatullah-elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
 <a href="https://kaggle.com/mennatullah elsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mennatullah elsahy" height="30" width="40" /></a>
