@@ -5,9 +5,8 @@
 <p align="left"> <a href="https://twitter.com/mennasahy" target="blank"><img src="https://img.shields.io/twitter/follow/mennasahy?logo=twitter&style=for-the-badge" alt="mennasahy" /></a> </p>
 
 
-- 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **ML & DL**
 
 - 💬 Ask me about **Data Science & Machine Learning**
 
