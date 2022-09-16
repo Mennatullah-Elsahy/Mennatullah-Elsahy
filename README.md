@@ -13,7 +13,7 @@
      I'm a 3rd year student in the faculty of computer and information science in Mansoura University   
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>obsessed</b> 
      with the idea of <b>improving</b> herself<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and  
-     <b>excel.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> 
+     <b>excel.</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> 
    </em>   
  </p> 
 <br> 
