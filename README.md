@@ -11,17 +11,16 @@
 <p> 
    <em> 
      I'm a 3rd year student in the faculty of computer and information science in Mansoura University   
-      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b> 
-     with the idea of <b>improving</b> herself and wants a <b>platform</b> to  
-     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and  
+      <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> who is <b>obsessed</b> 
+     with the idea of <b>improving</b> herself<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and  
      <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> 
    </em>   
  </p> 
 
 
-- 🌱 I’m currently learning **ML & DL**
+- 🌱 I’m currently learning **ML & DL**&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  <br> 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A01ahxL35cUIGRcGpBJqSg1JxkA9W8F5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A01ahxL35cUIGRcGpBJqSg1JxkA9W8F5/view?usp=sharing)<br> 
 
 
 
