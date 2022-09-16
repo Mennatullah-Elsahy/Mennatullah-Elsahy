@@ -10,7 +10,7 @@
 
 <p> 
    <em> 
-     I am a 3rd Year student in faculty of computer and information science in Mansoura University   
+     I'm a 3rd year student in the faculty of computer and information science in Mansoura University   
       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">  who is <b>obsessed</b> 
      with the idea of <b>improving</b> himself and wants a <b>platform</b> to  
      <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and  
