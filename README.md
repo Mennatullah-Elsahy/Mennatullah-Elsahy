@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **ML & DL**
 
-- 💬 Ask me about **Data Science & Machine Learning**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A01ahxL35cUIGRcGpBJqSg1JxkA9W8F5/view?usp=sharing)
 
 
@@ -48,7 +46,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mennatullah-Elsahy&theme=react-dark)](https://github.com/Mennatullah-Elsahy/github-readme-activity-graph) 
 
 
-<h2 align="left">📫 How To Reach Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2> 
+<h2 align="left">📫💬 How To Reach Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h2> 
   
 <p align="left">
 <a href="https://www.linkedin.com/in/mennatullah-elsahy-a78313220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
