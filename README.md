@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/mennasahy" target="blank"><img src="https://img.shields.io/twitter/follow/mennasahy?logo=twitter&style=for-the-badge" alt="mennasahy" /></a> </p>
 
- <img align="right" width="400" alt="GIF" src="https://blog.cloudlayer.io/content/images/2020/12/coding-freak.gif"/>
 
 
 <p> 
