@@ -54,7 +54,7 @@
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Mennatullah-Elsahy&theme=react-dark)](https://github.com/Mennatullah-Elsahy/github-readme-activity-graph) 
 
 
-<h1 align="left">📫💬 Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h1> 
+<h1 align="left">💬 Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h1> 
   
 <p align="left">
 <a href="https://www.linkedin.com/in/mennatullah-elsahy-a78313220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
