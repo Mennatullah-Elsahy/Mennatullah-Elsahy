@@ -1,6 +1,6 @@
 
 <div align=center> 
-         <img src="https://readme-typing-svg.herokuapp.com?color=%F7B813FF&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mennatullah+Elsahy+%F0%9F%91%8B;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" /> 
+         <img src="https://readme-typing-svg.herokuapp.com?color=%F7C5C4A8&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi,+I'm+Mennatullah+Elsahy+%F0%9F%91%8B;Passionate+Data+Scientist;Python+language+Enthusiast" alt="Headline" /> 
      </div> 
 
 <p align="left"> <a href="https://twitter.com/mennasahy" target="blank"><img src="https://img.shields.io/twitter/follow/mennasahy?logo=twitter&style=for-the-badge" alt="mennasahy" /></a> </p>
