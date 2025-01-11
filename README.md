@@ -41,19 +41,17 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/f8885bb2-6956-4ae8-9e2c-f2eedd1e7018" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Keras_logo.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/9cfca794-276a-4716-86c9-eeb43c4b1b5b" alt="Keras" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="Streamlit" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Tableau_Software_Logo.png" alt="Tableau" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/e63a97ec-d798-4eb6-8bd4-99a783458717" alt="Tableau" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" alt="Notion" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
-
-
 
 
  ### 🏆 Trophies 
