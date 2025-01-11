@@ -45,7 +45,7 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://github.com/user-attachments/assets/b1f462c2-aae7-42b4-99da-089ee1571b8b" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/fd2466cc-2b34-47a1-a0f4-95e0cff8eb76" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40"/>
   <img src="https://github.com/user-attachments/assets/0c23667a-b69c-45be-933d-102722d6d66d" alt="Tableau" width="40" height="40"/>
