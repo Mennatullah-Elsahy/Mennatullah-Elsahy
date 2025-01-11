@@ -32,7 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="40" height="40"/>
-  <img src="https://static.macupdate.com/products/31829/m/mysql-workbench-logo.webp?v=1666354686" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/f966c721-99e7-4a65-9519-c8b9c2f32353" width="40" height="40"/>
 
   <!-- Tools and Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
