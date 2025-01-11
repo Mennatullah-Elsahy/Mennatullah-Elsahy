@@ -79,8 +79,8 @@
 <h1 align="left">💬 Connect With Me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h1> 
   
 <p align="left">
-<a href="https://www.linkedin.com/in/mennatullah-elsahy-a78313220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/mennatullahelsahy/Home?isEditing=False&verifyPhone=False" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mennatullah elsahy" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mennatullahelsahy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mennatullah-elsahy" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mennatullahelsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mennatullah elsahy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100010186238433" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="menna elsahy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muhammadmenna96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mennatullah muhammad elsahy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mennaelsahy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mennaelsahy" height="30" width="40" /></a>
