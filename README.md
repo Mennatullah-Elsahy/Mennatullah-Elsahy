@@ -39,7 +39,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/Plotly-logo-01-square.png" alt="Plotly" width="40" height="40"/>
+  <img src="https://github.com/user-attachments/assets/f8885bb2-6956-4ae8-9e2c-f2eedd1e7018" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Keras_logo.svg" alt="Keras" width="40" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
