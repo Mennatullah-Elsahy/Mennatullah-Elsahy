@@ -31,7 +31,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Microsoft_SQL_Server_logo_%282013-2019%29.svg/512px-Microsoft_SQL_Server_logo_%282013-2019%29.svg.png" alt="Microsoft SQL Server" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/SQL_Workbench%2B_Logo.png" alt="SQL Workbench" width="40" height="40"/>
 
   <!-- Tools and Libraries -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
